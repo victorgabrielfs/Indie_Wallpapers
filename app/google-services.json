@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082790321442",
+    "firebase_url": "https://wallpaperapps-6bced-default-rtdb.firebaseio.com",
+    "project_id": "wallpaperapps-6bced",
+    "storage_bucket": "wallpaperapps-6bced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082790321442:android:dc578b30832deb85d6997b",
+        "android_client_info": {
+          "package_name": "com.hauntersoft.indiewallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082790321442-h3bekn17ldv5oopkse52u26s5jfstlr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkmyerh9axEGECAZhOM7tAAiyCIiJvO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082790321442-h3bekn17ldv5oopkse52u26s5jfstlr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
