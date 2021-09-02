@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Indie Wallpapers</string>
+    <string name="app_name" translatable="false">Indie Wallpapers</string>
+    <string name="apply_button_text">Apply</string>
+    <string name="wallpaper_intent">Set as:</string>
 </resources>

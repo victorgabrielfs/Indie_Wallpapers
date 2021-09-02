@@ -28,7 +28,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:indeterminateTint="@android:color/holo_orange_dark"/>
+        android:indeterminateTint="@color/orange_2"/>
 
     <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
